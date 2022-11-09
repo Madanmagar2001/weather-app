@@ -10,10 +10,6 @@ To use this you have to put own openweather api key below
 
 ## Authors
 
-- [@Madanmagar2001](https://github.com/Madanmagar2001)
+- [@madanmagar2001](https://github.com/Madanmagar2001)
 
 Happy Codding :)
-
-git branch -M main
-git remote add origin https://github.com/Madanmagar2001/weather-app.git
-git push -u origin main
