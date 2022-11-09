@@ -4,7 +4,7 @@ sign up below the link and the starter (free) one allows 60 calls per minute whi
 
 [openweathermap](https://openweathermap.org)
 
-To use this you have to put own openweather api key below
+To use this you have to put your own openweather api key below
 
 ![code](./apikey.png)
 
